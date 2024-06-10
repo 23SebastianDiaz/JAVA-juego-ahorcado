@@ -6,8 +6,6 @@ El jugador ingresa letras una a una en la consola. Si la letra está en la palab
 
 El juego termina cuando el jugador adivina todas las letras de la palabra o agota los intentos disponibles. Durante el juego, se muestra el estado actual de la palabra y los intentos restantes. Al final, se informa al jugador si ganó o perdió, revelando la palabra completa si perdió.
 
-
-<<<<<<< HEAD
 # Herramientas usadas -> 
 
 1. Clase Scanner.
